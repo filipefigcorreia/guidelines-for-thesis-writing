@@ -68,9 +68,6 @@ As an example, for a research proposal, the abstract could have around six short
 
 * *Avoid inconveniently-placed line breaks.* Prevent some elements from being separated over line breaks. You can do so by inserting a non-breaking space (~) instead of a space before \cite{} or \ref{}. For example, `Section~\ref{some_ref}` instead of `Section \ref{some_ref}`. This keeps citations and labels visually connected to their references.
 
-See https://www.merriam-webster.com/grammar/em-dash-en-dash-how-to-use
-
-
 ### Visualizing information
 
 * *Avoid pie and dognut charts*, as explained in the article _[Save the Pies for Desert](https://www.perceptualedge.com/articles/visual_business_intelligence/save_the_pies_for_dessert.pdf)_.
