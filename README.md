@@ -51,7 +51,7 @@ As an example, for a research proposal, the abstract could have around six short
 
 * *Choose a proper placement for table and figure captions.* With most styles and templates, [table captions appear above the tables and figure captions below the figures](https://tex.stackexchange.com/questions/3243/why-should-a-table-caption-be-placed-above-the-table). This aligns with how we naturally interpret tables (top-down) and figures (bottom-up).
 
-* *Place figures after their first mention.* Try to ensure that figures are always mentioned in the main text, and that it happens before the actual figure appears, to support the logical flow of the document.
+* *Place figures after their first mention.* Try to ensure that figures are always mentioned in the main text, and that it happens before the actual figure appears, to support the logical flow when reading the document.
 
 ### Formatting with LaTeX
 
