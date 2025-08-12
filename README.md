@@ -82,11 +82,11 @@ As an example, for a research proposal, the abstract could have around six short
 
 * *Ensure the references are complete.* Typically, most of the references of a thesis will be included to support a review of the state of the art. Confirm that all of them include at least the names of the authors, the title, the name of the journal (in the case of journal publications), the name of the conference (in the case of conference publications), the name of the publisher, and the year of publication. Pay attention to LaTeX compilation errors, because most of the fields that are missing in the references will appear there.
 
-## Review and refinement process
+### Review and refinement process
 
 * *Say your writing.* When you have a first draft, [read it out loud](https://martinfowler.com/bliki/SayYourWriting.html).
 
-## Precautions when releasing a version of your manuscript
+### Precautions when releasing a version of your manuscript
 
 Unless we are talking about a working version shared with a small [circle of trust](https://www.scrumbook.org/product-organization-pattern-language/development-team/circle-of-trust.html), always ensure that in versions of the document that you submit to the appraisal of others (use this as a quick checklist):
 
