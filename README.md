@@ -10,16 +10,16 @@ If you have any suggestions for improving these guidelines, don't be shy to send
 
 * *Say your writing.* When you have a first draft, [read it out loud](https://martinfowler.com/bliki/SayYourWriting.html).
 
-* _Start with "why?"._ Explain clearly [why someone should care to read the rest of your document](https://martinfowler.com/bliki/SayYourWriting.html) before you explain what you intend to build or contribute, and how you propose to get there.
 
+## Academic writing
 
-## Writing the Abstract 
+### Writing the Abstract 
 
 An abstract should succinctly summarize the *entire* document, including background, objectives, methods, key findings, and conclusions. That being said, you can and should allow more characters for the more important parts of the document, such as the results. 
 
 Abstracts can also use a [structured format](https://dl.acm.org/doi/abs/10.1007/s10664-008-9075-7), with each paragraph being explicitly labeled with what it is trying to convey. 
 
-As an example, for a research proposal the abstract could have around six short paragraphs:
+As an example, for a research proposal, the abstract could have around six short paragraphs:
 * Context: Wider topic, general motivation (why is it important to work on the topic)
 * Related work: What are the key aspects we can learn from related work, and to what extent does previous work not satisfy us (and the world)
 * Objectives: what you want to achieve, what do you want to contribute that adds to what the world already knows
@@ -27,7 +27,7 @@ As an example, for a research proposal the abstract could have around six short 
 * Work plan: Very high-level view of what you plan to do and when
 * Preliminary work: If anything, what have you already started doing, and main conclusion
 
-## General writing style
+### General writing style
 
 * *Keep a consistent narrative voice.* Choose between “we” or “I” and remain consistent throughout the text. Both are grammatically correct, but I tend to prefer “we”, as it sounds more inclusive and less self-centered than repeating “I did this, I did that”.
 
@@ -49,7 +49,7 @@ As an example, for a research proposal the abstract could have around six short 
 
 * *Define acronyms upon first use.* Always write the full term with the acronym in parentheses the first time (e.g., “Systematic Literature Review (SLR)”).
 
-## Tables and figures
+### Tables and figures
 
 * *Make titles of figures and tables descriptive.* If they are long, that's fine, but confirm that your "list of figures" and "list of tables" at the beginning of the document [use shorter versions](https://tex.stackexchange.com/a/11580).
 
@@ -75,7 +75,7 @@ As an example, for a research proposal the abstract could have around six short 
 See https://www.merriam-webster.com/grammar/em-dash-en-dash-how-to-use
 
 
-## Visualizing information
+### Visualizing information
 
 * *Avoid pie and dognut charts*, as explained in the article _[Save the Pies for Desert](https://www.perceptualedge.com/articles/visual_business_intelligence/save_the_pies_for_dessert.pdf)_.
 
@@ -83,29 +83,11 @@ See https://www.merriam-webster.com/grammar/em-dash-en-dash-how-to-use
 
 ![image](figures/remove-and-move-to-improve-data-tables.gif)
 
-## References
+### References
 
 * *Clarify author references.* When referring to work by multiple authors, use [“et al.”](https://en.wikipedia.org/wiki/List_of_Latin_phrases_(E)#et_alii) (e.g., “Smith et al. [42] found ...”).
 
 * *Ensure the references are complete.* Typically, most of the references of a thesis will be included to support a review of the state of the art. Confirm that all of them include at least the names of the authors, the title, the name of the journal (in the case of journal publications), the name of the conference (in the case of conference publications), the name of the publisher, and the year of publication. Pay attention to LaTeX compilation errors, because most of the fields that are missing in the references will appear there.
-
-
-## Research design
-
-*Find appropriate research questions.* A research question often needs to be refined through a few iterations. Good research questions should be:
- * Clear — Easily understood, using established and unambiguous terms.
- * Specific – Focused on a well-defined topic or phenomenon, so that the research remains manageable and can yield meaningful results.
- * Falsifiable – The question is framed so that we can use empirical means to show that something is not supported by evidence.
- * Feasible – We can answer the question with the available time, resources, skills, and access to data or participants.
- * Original – Addresses a gap in current knowledge, challenges a common assumption, or seeks to provide a new perspective.
- * Conducive to discussion – Avoid questions leading to simple yes/no answers; good questions require analysis and allow a direct answer, but also foster discussion and depth.
-
-
-## Scientific methods and research design
-
-* *Clearly describe study design.* Always present the logical structure of your study, ideally with a visual diagram illustrating the steps and their expected outcomes. This helps the reader understand how the different parts of the methodology fit together.
-
-* *Beware the use of the term "significant".* I usually reserve its use for statistically proven findings (e.g., p-value < 0.05) to avoid ambiguity.
 
 ## Precautions when releasing a version of your manuscript
 
@@ -116,6 +98,34 @@ Unless we are talking about a working version shared with a small [circle of tru
 * The "list of figures" and "list of tables" at the beginning of the document feature appropriate captions (e.g., not too long; not including citations)
 * All figures, tables, and citations are correctly placed and referenced throughout the document.
 * You ran the text through spelling and grammar checkers (e.g., Grammarly).
+
+
+## Research design
+
+In your writing, it's important to clearly distinguish the relevance of your work (the "why") from its goals (the "what") and from the methods you will use to reach those goals (the "how").
+
+### Motivating the work (the "why)
+
+* _Start with "why?"._ Explain clearly [why someone should care to read the rest of your document](https://martinfowler.com/bliki/SayYourWriting.html) before you explain what you intend to build or contribute, and how you propose to get there.
+
+### Setting the goals (the "what")
+
+* Find appropriate research questions.* A research question often needs to be refined through a few iterations. Good research questions should be:
+ * Clear — Easily understood, using established and unambiguous terms.
+ * Specific – Focused on a well-defined topic or phenomenon, so that the research remains manageable and can yield meaningful results.
+ * Falsifiable – The question is framed so that we can use empirical means to show that something is not supported by evidence.
+ * Feasible – We can answer the question with the available time, resources, skills, and access to data or participants.
+ * Original – Addresses a gap in current knowledge, challenges a common assumption, or seeks to provide a new perspective.
+ * Conducive to discussion – Avoid questions leading to simple yes/no answers; good questions require analysis and allow a direct answer, but also foster discussion and depth.
+
+### Setting the methods (the "how")
+
+* *Clearly describe the design of your study(ies).* Always present the logical structure of your study, ideally with a visual diagram illustrating the steps and their expected outcomes. This helps the reader understand how the different parts of the methodology fit together.
+
+### Reporting the results
+
+* *Beware the use of the term "significant".* I usually reserve its use for statistically proven findings (e.g., p-value < 0.05) to avoid ambiguity.
+
 
 
 ## Preparing a research poster
