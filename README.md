@@ -53,7 +53,7 @@ As an example, for a research proposal, the abstract could have around six short
 
 * *Place figures after their first mention.* Try to ensure that figures are always mentioned in the main text, and that it happens before the actual figure appears, to support the logical flow of the document.
 
-## Formatting with LaTeX
+### Formatting with LaTeX
 
 * *Use typographic emphasis appropriately.* Use:
   * Bold for key structuring terms (`\textbf{}`)
