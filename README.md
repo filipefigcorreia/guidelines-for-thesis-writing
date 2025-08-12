@@ -84,7 +84,9 @@ As an example, for a research proposal, the abstract could have around six short
 
 ### Review and refinement process
 
-* *Say your writing.* When you have a first draft, [read it out loud](https://martinfowler.com/bliki/SayYourWriting.html).
+* *Thesis writing is a marathon, not a sprint.* It is important to write multiple drafts during the entire process, and get feedback at each stage. While it is normal for the writing process to intensify in the last stretch of the work, do **not** leave all the writing for the last few weeks. Set aside time for revision, and self-edit your own writing before sharing drafts with your supervisor.
+
+* *Say your writing.* When you have a first draft, [read it out loud](https://martinfowler.com/bliki/SayYourWriting.html) to spot problems in clarity and flow of thought.
 
 ### Precautions when releasing a version of your manuscript
 
@@ -99,13 +101,17 @@ Unless we are talking about a working version shared with a small [circle of tru
 
 ## Research design
 
-In your writing, it's important to clearly distinguish the relevance of your work (the "why") from its goals (the "what") and from the methods you will use to reach those goals (the "how").
+A solid research design is essential to conducting research that is both meaningful and scientifically sound. In your writing, it's important to clearly distinguish the relevance of your work (the "why") from its goals (the "what") and from the methods you will use to reach those goals (the "how").
 
 ### Motivating the work (the "why)
 
 * _Start with "why?"._ Explain clearly [why someone should care to read the rest of your document](https://martinfowler.com/bliki/SayYourWriting.html) before you explain what you intend to build or contribute, and how you propose to get there.
 
+* _Contextualize the topic and explain the research problem within it._ Explain the broader context in which your research fits and explain the impact that researching it can have.
+
 ### Setting the goals (the "what")
+
+* Once the motivation is clear, it's time to specify your research goals. These goals guide the direction of your study and should be framed as _hypotheses_ and/or _research questions_. Often, we start with an hypothesis, which we then decompose into a set of more specific research questions that we aim to answer.
 
 * *Find appropriate research questions.* A research question often needs to be refined through a few iterations. Good research questions should be:
   * Clear — Easily understood, using established and unambiguous terms.
