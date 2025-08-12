@@ -107,7 +107,7 @@ In your writing, it's important to clearly distinguish the relevance of your wor
 
 ### Setting the goals (the "what")
 
-* Find appropriate research questions.* A research question often needs to be refined through a few iterations. Good research questions should be:
+* *Find appropriate research questions.* A research question often needs to be refined through a few iterations. Good research questions should be:
  * Clear — Easily understood, using established and unambiguous terms.
  * Specific – Focused on a well-defined topic or phenomenon, so that the research remains manageable and can yield meaningful results.
  * Falsifiable – The question is framed so that we can use empirical means to show that something is not supported by evidence.
