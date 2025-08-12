@@ -39,7 +39,7 @@ As an example, for a research proposal, the abstract could have around six short
 
 * *Avoid referring to sections as "sub-sections".* Irrespective of how deep they appear in the document structure, it suffices to refer to them as "sections". 
 
-* *Write compound adjectives with a hyphen.* A [compound adjective](https://www.woodwardenglish.com/lesson/compound-adjectives-in-english/) is a combination of two or more words acting as a single idea. The words in a compound adjective should be linked through a hyphen. For example, “high-level analysis” instead o “high level analysis”. 
+* *Write compound adjectives with a hyphen.* A [compound adjective](https://www.woodwardenglish.com/lesson/compound-adjectives-in-english/) is a combination of two or more words acting as a single idea. The words in a compound adjective should be linked through a hyphen. For example, “high-level analysis” instead of “high level analysis”. 
 
 * *Use "that" and "which" in different cases.* Use "that" for restrictive clauses (essential to the sentence's meaning) and "which" for non-restrictive clauses (which add non-essential information). For example: “The method that we selected...” vs. “The method, which was developed in 2019, ...”. See https://english.stackexchange.com/a/490277
 
@@ -61,7 +61,7 @@ As an example, for a research proposal, the abstract could have around six short
   * Teletype for code or technical terms (`\texttt{}`)
   * Small caps for names of software patterns (`\textsc{}`)
 
-* *[Use dashes appropriately](https://www.merriam-webster.com/grammar/em-dash-en-dash-how-to-use).* Use:
+* *[Use dashes appropriately](https://www.merriam-webster.com/grammar/em-dash-en-dash-how-to-use)*:
   * Use a common dash (-), also called a hyphen, for joining compound words (e.g., well-known, high-speed) or for breaking words at the end of a line.
   * Use an "endash" for representing a range of numbers or dates (e.g., 2010–2020, the Boston—New York flight).
   * Use an "emdash" for replacing commas, parentheses, or colons in certain cases to add a more dramatic effect or clarity (e.g., The answer—the one he gave—was unexpected).
@@ -140,7 +140,7 @@ The thesis defense marks the culmination of all the work you’ve done during a 
 
 A few aspects of *preparing well* are:
 * Stick religiously to the time you have to present your work. This usually means training, training, training, and training again to get the time right. It's much preferable to finish a couple of minutes early than it is to finish a couple of minutes late.
-* Anticipate possible questions of jury members, and incorporating them in the presentation
+* Anticipate possible questions of jury members, and incorporate them in the presentation
 * Doing a final dry-run with your supervisor(s) and extended research team, if there is one, and listening to their feedback.
 
 
