@@ -6,10 +6,6 @@ In the sections below, you can find some notes that I have compiled throughout t
 
 If you have any suggestions for improving these guidelines, don't be shy to send a pull request my way.
 
-## Getting the message across
-
-* *Say your writing.* When you have a first draft, [read it out loud](https://martinfowler.com/bliki/SayYourWriting.html).
-
 
 ## Academic writing
 
@@ -88,6 +84,10 @@ See https://www.merriam-webster.com/grammar/em-dash-en-dash-how-to-use
 * *Clarify author references.* When referring to work by multiple authors, use [“et al.”](https://en.wikipedia.org/wiki/List_of_Latin_phrases_(E)#et_alii) (e.g., “Smith et al. [42] found ...”).
 
 * *Ensure the references are complete.* Typically, most of the references of a thesis will be included to support a review of the state of the art. Confirm that all of them include at least the names of the authors, the title, the name of the journal (in the case of journal publications), the name of the conference (in the case of conference publications), the name of the publisher, and the year of publication. Pay attention to LaTeX compilation errors, because most of the fields that are missing in the references will appear there.
+
+## Review and refinement process
+
+* *Say your writing.* When you have a first draft, [read it out loud](https://martinfowler.com/bliki/SayYourWriting.html).
 
 ## Precautions when releasing a version of your manuscript
 
