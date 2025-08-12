@@ -144,22 +144,22 @@ A few aspects of *preparing well* are:
 ## Tools and resources
 
 Tools I strongly advise:
-  * overleaf.com - Write the document and easily share it with (and collect feedback from) your advisor(s). Keep a local git clone of the document, though.
-  * grammarly.com - Check the state of your grammar and general writing. 
+  * overleaf.com: Write the document and easily share it with (and collect feedback from) your advisor(s). Keep a local git clone of the document, though.
+  * grammarly.com: Check the state of your grammar and general writing. 
 
 Other useful tools:
   * litmaps.com: Visual tool to explore related literature.
   * elicit.com: AI assistant for literature search and evidence synthesis.
 
 Further resources
-  * [ACM Empirical Standards](https://www2.sigsoft.org/EmpiricalStandards/docs/standards) – Choose the most appropriate research methods to answer your research questions, and use them well.
-  * [Systematic, scoping, and rapid reviews: An overview](https://www.lib.sfu.ca/about/branches-depts/rc/writing-theses/writing/literature-reviews/systematic-scoping-rapid-reviews) – Choose the kind of review is right for you.
+  * [ACM Empirical Standards](https://www2.sigsoft.org/EmpiricalStandards/docs/standards): Choose the most appropriate research methods to answer your research questions, and use them well.
+  * [Systematic, scoping, and rapid reviews: An overview](https://www.lib.sfu.ca/about/branches-depts/rc/writing-theses/writing/literature-reviews/systematic-scoping-rapid-reviews): Choose the kind of review that is right for you.
 
 
 ## Further references about what a PhD is
 
-* [A PhD in Numbers](https://davidstutz.de/a-phd-in-numbers/), by David Stutz – Example of  *what a PhD can look like in terms of everyday work*.
-* [How to get a PhD](https://discovery.up.pt/permalink/351PUCS_INST/19qmr6j/alma990005724620108801), by Estele Phillips – Book on the different concerns to consider and best practices when doing a PhD.
+* [A PhD in Numbers](https://davidstutz.de/a-phd-in-numbers/), by David Stutz: Example of  *what a PhD can look like in terms of everyday work*.
+* [How to get a PhD](https://discovery.up.pt/permalink/351PUCS_INST/19qmr6j/alma990005724620108801), by Estele Phillips: Book on the different concerns to consider and best practices when doing a PhD.
  
 
 
