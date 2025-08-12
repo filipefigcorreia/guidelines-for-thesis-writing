@@ -1,8 +1,8 @@
 # Guidelines for Thesis Writing
 
-So, you are writing a thesis! Whether you’re doing an MSc or PhD, writing a thesis involves much more than putting words on a screen. It needs clarity of thought and effective communication. Going through the process can help us becoming better writers and researchers.
+So, you are writing a thesis! Whether you’re doing an MSc or PhD, writing a thesis involves much more than putting words on a screen. It needs clarity of thought and effective communication. Going through the process can help us become better writers and researchers.
 
-In the sections below, you can find some notes that I have compiled throughout the years when supervising students. They contain (to some extent, opinionated) tips for making academic writing more effective, including different aspecs—structure, tone, grammar, and LaTeX usage. The document also includes a few methodological resources that go a bit beyond what we would strictly call _writing_.
+In the sections below, you can find some notes that I have compiled throughout the years when supervising students. They contain (to some extent, opinionated) tips for making academic writing more effective, including different aspects—structure, tone, grammar, and LaTeX usage. The document also includes a few methodological resources that go a bit beyond what we would strictly call _writing_.
 
 If you have any suggestions for improving these guidelines, don't be shy to send a pull request my way.
 
@@ -21,7 +21,7 @@ As an example, for a research proposal, the abstract could have around six short
 * Objectives: what you want to achieve, what do you want to contribute that adds to what the world already knows
 * Methods: What research methods do you propose to apply
 * Work plan: Very high-level view of what you plan to do and when
-* Preliminary work: If anything, what have you already started doing, and main conclusion
+* Preliminary work: If anything, what have you already started doing, and the main conclusion
 
 ### General writing style
 
@@ -37,7 +37,7 @@ As an example, for a research proposal, the abstract could have around six short
 
 * *Capitalize references to document elements.* Expressions like “Section 3.2”, “Table 4”, or “Figure 5” are [proper nouns](https://en.wikipedia.org/wiki/Proper_noun) and, as such, they are usually capitalized.
 
-* *Avoid referring to sections as "sub-sections".* Irrespectively of how deep they appear in the document structure, it suffices to refer to them as "sections". 
+* *Avoid referring to sections as "sub-sections".* Irrespective of how deep they appear in the document structure, it suffices to refer to them as "sections". 
 
 * *Write compound adjectives with a hyphen.* A [compound adjective](https://www.woodwardenglish.com/lesson/compound-adjectives-in-english/) is a combination of two or more words acting as a single idea. The words in a compound adjective should be linked through a hyphen. For example, “high-level analysis” instead o “high level analysis”. 
 
@@ -139,8 +139,8 @@ In your writing, it's important to clearly distinguish the relevance of your wor
 The thesis defense marks the culmination of all the work you’ve done during a relevant chapter of your life, and it deserves to be honored properly. Therefore, it's not surprising that some people will easily get caught in anxiety. Do your best to prepare well, but don't forget to face the moment as a celebration of everything you’ve achieved.
 
 A few aspects of *preparing well* are:
-* Sticking religiously to the time you have to present your work. This usually means training, training, training, and training again to get the time right. It's much preferable to finish a couple of minutes early than it is to finish a couple of minutes late.
-* Anticipating possible questions of jury members, and incorporating them in the presentation
+* Stick religiously to the time you have to present your work. This usually means training, training, training, and training again to get the time right. It's much preferable to finish a couple of minutes early than it is to finish a couple of minutes late.
+* Anticipate possible questions of jury members, and incorporating them in the presentation
 * Doing a final dry-run with your supervisor(s) and extended research team, if there is one, and listening to their feedback.
 
 
