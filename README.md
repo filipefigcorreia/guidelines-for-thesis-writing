@@ -123,12 +123,13 @@ A solid research design is essential to conducting research that is both meaning
 
 ### Setting the methods (the "how")
 
+* *Choose the most appropriate research methods.* There's an entire range of different methods that you can employ. The [ACM Empirical Standards](https://www2.sigsoft.org/EmpiricalStandards/docs/standards) provides a comprehensive list, including the applicability context for each method, and checklists of the most important aspects to take into account.
+
 * *Clearly describe the design of your study(ies).* Always present the logical structure of your study, ideally with a visual diagram illustrating the steps and their expected outcomes. This helps the reader understand how the different parts of the methodology fit together.
 
 ### Reporting the results
 
 * *Beware the use of the term "significant".* I usually reserve its use for statistically proven findings (e.g., p-value < 0.05) to avoid ambiguity.
-
 
 
 ## Preparing a research poster
@@ -158,7 +159,6 @@ Other useful tools:
   * elicit.com: AI assistant for literature search and evidence synthesis.
 
 Further resources
-  * [ACM Empirical Standards](https://www2.sigsoft.org/EmpiricalStandards/docs/standards): Choose the most appropriate research methods to answer your research questions, and use them well.
   * [Systematic, scoping, and rapid reviews: An overview](https://www.lib.sfu.ca/about/branches-depts/rc/writing-theses/writing/literature-reviews/systematic-scoping-rapid-reviews): Choose the kind of review that is right for you.
 
 
