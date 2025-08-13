@@ -166,8 +166,9 @@ Further resources
 
 * [A PhD in Numbers](https://davidstutz.de/a-phd-in-numbers/), by David Stutz: Example of  *what a PhD can look like in terms of everyday work*.
 * [How to get a PhD](https://discovery.up.pt/permalink/351PUCS_INST/19qmr6j/alma990005724620108801), by Estele Phillips: Book on the different concerns to consider and best practices when doing a PhD.
-* [Read More!](https://philippleitner.medium.com/read-more-6c4d5698015f), by Philipp Leitner: On the importance of reading for getting better on what you do.
- 
+* [Read More!](https://philippleitner.medium.com/read-more-6c4d5698015f), by Philipp Leitner: On the importance of reading for getting better at what you do.
+* [Collection of advice for prospective and current PhD students](https://github.com/pliang279/awesome-phd-advice?tab=readme-ov-file), Paul Liang: A great compilation of resources with advice for PhD students.
+* [Science Vs. Engineering](https://www.linkedin.com/posts/yann-lecun_there-is-a-difference-between-research-and-activity-7356606929554567169-_iT2/), by Yann LeCun: On the difference (and misconceptions) between what is _science_ and what is _engineering_, and the relationship between the two.
 
 
 
