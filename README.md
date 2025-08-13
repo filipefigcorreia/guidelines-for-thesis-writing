@@ -162,10 +162,11 @@ Further resources
   * [Systematic, scoping, and rapid reviews: An overview](https://www.lib.sfu.ca/about/branches-depts/rc/writing-theses/writing/literature-reviews/systematic-scoping-rapid-reviews): Choose the kind of review that is right for you.
 
 
-## Further references about what a PhD is
+## Further references for PhD students
 
 * [A PhD in Numbers](https://davidstutz.de/a-phd-in-numbers/), by David Stutz: Example of  *what a PhD can look like in terms of everyday work*.
 * [How to get a PhD](https://discovery.up.pt/permalink/351PUCS_INST/19qmr6j/alma990005724620108801), by Estele Phillips: Book on the different concerns to consider and best practices when doing a PhD.
+* [Read More!](https://philippleitner.medium.com/read-more-6c4d5698015f), by Philipp Leitner: On the importance of reading for getting better on what you do.
  
 
 
