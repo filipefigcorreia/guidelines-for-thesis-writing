@@ -169,6 +169,7 @@ Further resources
 * [Read More!](https://philippleitner.medium.com/read-more-6c4d5698015f), by Philipp Leitner: On the importance of reading for getting better at what you do.
 * [Collection of advice for prospective and current PhD students](https://github.com/pliang279/awesome-phd-advice?tab=readme-ov-file), Paul Liang: A great compilation of resources with advice for PhD students.
 * [Science Vs. Engineering](https://www.linkedin.com/posts/yann-lecun_there-is-a-difference-between-research-and-activity-7356606929554567169-_iT2/), by Yann LeCun: On the difference (and misconceptions) between what is _science_ and what is _engineering_, and the relationship between the two.
+* [Competing priorities in doctoral student advising](https://medium.com/bits-and-behavior/competing-tensions-in-doctoral-student-advising-9ebf6af0c626), amy Ko: On the decision-making and challenges of doing (and supervising) PhD work.
 
 
 
