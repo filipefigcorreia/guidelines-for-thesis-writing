@@ -18,7 +18,7 @@ Abstracts can also use a [structured format](https://dl.acm.org/doi/abs/10.1007/
 As an example, for a research proposal, the abstract could have around six short paragraphs:
 * Context: Wider topic, general motivation (why is it important to work on the topic)
 * Related work: What are the key aspects we can learn from related work, and to what extent does previous work not satisfy us (and the world)
-* Objectives: what you want to achieve, what do you want to contribute that adds to what the world already knows
+* Objectives: what you want to achieve, what you want to contribute that adds to what the world already knows
 * Methods: What research methods do you propose to apply
 * Work plan: Very high-level view of what you plan to do and when
 * Preliminary work: If anything, what have you already started doing, and the main conclusion
