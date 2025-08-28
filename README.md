@@ -41,7 +41,7 @@ As an example, for a research proposal, the abstract could have around six short
 
 * *Write compound adjectives with a hyphen.* A [compound adjective](https://www.woodwardenglish.com/lesson/compound-adjectives-in-english/) is a combination of two or more words acting as a single idea. The words in a compound adjective should be linked through a hyphen. For example, “high-level analysis” instead of “high level analysis”. 
 
-* *Use "that" and "which" in different cases.* Use "that" for restrictive clauses (essential to the sentence's meaning) and "which" for non-restrictive clauses (which add non-essential information). For example: “The method that we selected...” vs. “The method, which was developed in 2019, ...”. See https://english.stackexchange.com/a/490277
+* *Use "that" and "which" in different cases.* Use "that" for restrictive clauses (essential to the sentence's meaning) and "which" for non-restrictive clauses (which add non-essential information). For example: “The method that we selected...” vs. “The method, which was developed in 2019, ...”. See the post [_Confusion Between Which vs That_](https://english.stackexchange.com/a/490277).
 
 * *Define acronyms upon first use.* Always write the full term with the acronym in parentheses the first time (e.g., “Systematic Literature Review (SLR)”).
 
