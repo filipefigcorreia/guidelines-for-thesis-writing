@@ -45,6 +45,11 @@ As an example, for a research proposal, the abstract could have around six short
 
 * *Define acronyms upon first use.* Always write the full term with the acronym in parentheses the first time (e.g., “Systematic Literature Review (SLR)”).
 
+* *[Use dashes appropriately](https://www.merriam-webster.com/grammar/em-dash-en-dash-how-to-use)*:
+  * Use a common dash (-), also called a hyphen, for joining compound words (e.g., well-known, high-speed) or for breaking words at the end of a line.
+  * Use an "endash" for representing a range of numbers or dates (e.g., 2010–2020, the Boston—New York flight).
+  * Use an "emdash" for replacing commas, parentheses, or colons in certain cases to add a more dramatic effect or clarity (e.g., The answer—the one he gave—was unexpected).
+
 ### Tables and figures
 
 * *Make titles of figures and tables descriptive.* If they are long, that's fine, but confirm that your "list of figures" and "list of tables" at the beginning of the document [use shorter versions](https://tex.stackexchange.com/a/11580).
@@ -60,11 +65,6 @@ As an example, for a research proposal, the abstract could have around six short
   * Italics for emphasis or foreign words (`\textit{}`)
   * Teletype for code or technical terms (`\texttt{}`)
   * Small caps for names of software patterns (`\textsc{}`)
-
-* *[Use dashes appropriately](https://www.merriam-webster.com/grammar/em-dash-en-dash-how-to-use)*:
-  * Use a common dash (-), also called a hyphen, for joining compound words (e.g., well-known, high-speed) or for breaking words at the end of a line.
-  * Use an "endash" for representing a range of numbers or dates (e.g., 2010–2020, the Boston—New York flight).
-  * Use an "emdash" for replacing commas, parentheses, or colons in certain cases to add a more dramatic effect or clarity (e.g., The answer—the one he gave—was unexpected).
 
 * *Avoid inconveniently-placed line breaks.* Prevent some elements from being separated over line breaks. You can do so by inserting a non-breaking space (~) instead of a space before \cite{} or \ref{}. For example, `Section~\ref{some_ref}` instead of `Section \ref{some_ref}`. This keeps citations and labels visually connected to their references.
 
