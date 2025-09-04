@@ -66,7 +66,17 @@ As an example, for a research proposal, the abstract could have around six short
   * Teletype for code or technical terms (`\texttt{}`)
   * Small caps for names of software patterns (`\textsc{}`)
 
-* *Avoid inconveniently-placed line breaks.* Prevent some elements from being separated over line breaks. You can do so by inserting a non-breaking space (~) instead of a space before \cite{} or \ref{}. For example, `Section~\ref{some_ref}` instead of `Section \ref{some_ref}`. This keeps citations and labels visually connected to their references.
+* *Avoid inconveniently-placed line breaks.* Prevent some elements from being separated over line breaks. You can do so by inserting a non-breaking space (~) instead of a space before \cite{} or \ref{}. For example, `Section~\ref{some_ref}` instead of `Section \ref{some_ref}`. This keeps citations and heading references from appearing as the first thing in a line of text.
+
+* *Use typographical separators.* Long sections with too many sub-levels (`\subsection`, `\subsubsection`, etc.) can overwhelm readers and make the document look cluttered. Instead of over-structuring, consider breaking up the text visually with separators. Add this to the preamble, and insert a separator anywhere with the `\separator` command:
+
+```latex
+\newcommand{\separator}{
+  \begin{center}
+    $\ast$~$\ast$~$\ast$
+  \end{center}
+}
+```
 
 ### Visualizing information
 
