@@ -115,7 +115,7 @@ A solid research design is essential to conducting research that is both meaning
 
 ### Motivating the work (the "why)
 
-* _Start with "why?"._ Explain clearly [why someone should care to read the rest of your document](https://martinfowler.com/bliki/SayYourWriting.html) before you explain what you intend to build or contribute, and how you propose to get there.
+* _Start with "why?"._ Explain clearly [why someone should care to continue reading the rest of your document/chapter/paragraph](https://martinfowler.com/bliki/SayYourWriting.html) before you explain "what" you intend to build or contribute, and "how" you propose to get there.
 
 * _Contextualize the topic and explain the research problem within it._ Explain the broader context in which your research fits and explain the impact that researching it can have.
 
