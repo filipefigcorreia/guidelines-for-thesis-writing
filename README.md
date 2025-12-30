@@ -35,7 +35,7 @@ As an example, for a research proposal, the abstract could have around six short
 
 * *Avoid using document elements as the main sentence subjects.* For example, rather than “The previous section shows...” write “The analysis in the previous section shows...”.
 
-* *Capitalize references to document elements.* Expressions like “Section 3.2”, “Table 4”, or “Figure 5” are [proper nouns](https://en.wikipedia.org/wiki/Proper_noun) and, as such, they are usually capitalized.
+* *Capitalize references to document elements.* Expressions like “Section 3.2”, “Table 4”, or “Figure 5” are [proper nouns](https://en.wikipedia.org/wiki/Proper_noun) and, as such, [they are usually capitalized](https://ell.stackexchange.com/a/64714).
 
 * *Avoid referring to sections as "sub-sections".* Irrespective of how deep they appear in the document structure, it suffices to refer to them as "sections". 
 
