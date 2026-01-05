@@ -90,6 +90,8 @@ As an example, for a research proposal, the abstract could have around six short
 
 * *Clarify author references.* When referring to work by multiple authors, use [“et al.”](https://en.wikipedia.org/wiki/List_of_Latin_phrases_(E)#et_alii) (e.g., “Smith et al. [42] found ...”).
 
+* *Avoid using references as the grammatical subject of a sentence.* Sentence should remain meaningful and complete if citations are removed; references should function as supporting evidence, not as the core of the statement. For example, instead of "Proposed approaches, such as [42], can ..." one can write "Proposed approaches, such as Smith's [42], can ..."
+
 * *Ensure the references are complete.* Typically, most of the references of a thesis will be included to support a review of the state of the art. Confirm that all of them include at least the names of the authors, the title, the name of the journal (in the case of journal publications), the name of the conference (in the case of conference publications), the name of the publisher, and the year of publication. Pay attention to LaTeX compilation errors, because most of the fields that are missing in the references will appear there.
 
 ### Review and refinement process
